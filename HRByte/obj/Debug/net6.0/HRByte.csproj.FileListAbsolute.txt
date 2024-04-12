@@ -1,0 +1,15 @@
+D:\API\HRByte\HRByte\bin\Debug\net6.0\HRByte.exe
+D:\API\HRByte\HRByte\bin\Debug\net6.0\HRByte.deps.json
+D:\API\HRByte\HRByte\bin\Debug\net6.0\HRByte.runtimeconfig.json
+D:\API\HRByte\HRByte\bin\Debug\net6.0\HRByte.dll
+D:\API\HRByte\HRByte\bin\Debug\net6.0\HRByte.pdb
+D:\API\HRByte\HRByte\obj\Debug\net6.0\HRByte.csproj.AssemblyReference.cache
+D:\API\HRByte\HRByte\obj\Debug\net6.0\HRByte.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\HRByte\HRByte\obj\Debug\net6.0\HRByte.AssemblyInfoInputs.cache
+D:\API\HRByte\HRByte\obj\Debug\net6.0\HRByte.AssemblyInfo.cs
+D:\API\HRByte\HRByte\obj\Debug\net6.0\HRByte.csproj.CoreCompileInputs.cache
+D:\API\HRByte\HRByte\obj\Debug\net6.0\HRByte.dll
+D:\API\HRByte\HRByte\obj\Debug\net6.0\refint\HRByte.dll
+D:\API\HRByte\HRByte\obj\Debug\net6.0\HRByte.pdb
+D:\API\HRByte\HRByte\obj\Debug\net6.0\HRByte.genruntimeconfig.cache
+D:\API\HRByte\HRByte\obj\Debug\net6.0\ref\HRByte.dll
